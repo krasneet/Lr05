@@ -1,0 +1,11 @@
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\bin\Debug\05.exe.config
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\bin\Debug\05.exe
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\bin\Debug\05.pdb
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\obj\Debug\05.csproj.AssemblyReference.cache
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\obj\Debug\05.csproj.SuggestedBindingRedirects.cache
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\obj\Debug\_05.Form1.resources
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\obj\Debug\_05.Properties.Resources.resources
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\obj\Debug\05.csproj.GenerateResource.cache
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\obj\Debug\05.exe
+Z:\24ИС-2025\24-25 уч год\31ИС\mamyra2\РКИС\05\obj\Debug\05.pdb
